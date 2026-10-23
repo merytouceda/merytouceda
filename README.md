@@ -14,10 +14,10 @@
 -  🐝 I’m currently researching the virome of honey bees and waste water treatment plants  
   
 
-- 👩‍🏫 Find the materials for my Nextflow crash course [here](https://hurwitzlab.github.io/nextflow_crash_course/)  
+- 👩‍🏫 Find the materials for my **Nextflow crash course** [here](https://hurwitzlab.github.io/nextflow_crash_course/)  
   
 
-- 👩‍🏫 Find the materials for my Intro to Omics' in R course [here](https://hurwitzlab.github.io/omics_with_R/)  
+- 👩‍🏫 Find the materials for my **Intro to Omics' in R** course [here](https://hurwitzlab.github.io/omics_with_R/)  
   
 
 <br/>  
