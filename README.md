@@ -1,7 +1,3 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
 
 ### <div align="center">I'm Mery, a bioinformatician currently working on bacteriophage research and nextflow pipelines!</div>  
 #### Nextflow Ambassador 2026-2027
