@@ -4,8 +4,10 @@
   
 
 ### <div align="center">I'm Mery, a bioinformatician currently working on bacteriophage research and nextflow pipelines!</div>  
-  
+#### Nextflow Ambassador 2026-2027
 
+- Find more information about me on my website: https://merytouceda.github.io/
+  
 - 🔭 I’m currently working on [some Nextflow pipelines for my lab](https://github.com/hurwitzlab/merys_nf_pipelines)  
   
 
@@ -62,9 +64,7 @@
 
 
 ## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
+- Find my thoughts on my website: https://merytouceda.github.io/writing.html  
 
 <br/>  
 
