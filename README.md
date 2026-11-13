@@ -18,6 +18,13 @@
 
 <br/>  
 
+<a href="https://gitscore.live/merytouceda">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://gitscore.live/api/badge/merytouceda?style=card&theme=dark" />
+    <img src="https://gitscore.live/api/badge/merytouceda?style=card" alt="GitScore for merytouceda" />
+  </picture>
+</a>
+
 
 ## My Skill Set  
 
@@ -30,16 +37,7 @@
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="75" /></a>  
 </div>
 
-
 <br/>  
-
-
-<a href="https://gitscore.live/merytouceda">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://gitscore.live/api/badge/merytouceda?style=card&theme=dark" />
-    <img src="https://gitscore.live/api/badge/merytouceda?style=card" alt="GitScore for merytouceda" />
-  </picture>
-</a>
 
 ## Connect with me  
 <div align="center">
@@ -61,16 +59,6 @@
 
 <br/>  
 
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
