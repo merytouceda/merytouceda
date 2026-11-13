@@ -44,6 +44,13 @@
 <br/>  
 
 
+<a href="https://gitscore.live/merytouceda">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://gitscore.live/api/badge/merytouceda?style=card&theme=dark" />
+    <img src="https://gitscore.live/api/badge/merytouceda?style=card" alt="GitScore for merytouceda" />
+  </picture>
+</a>
+
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/https://merytouceda.github.io/" target="_blank">
