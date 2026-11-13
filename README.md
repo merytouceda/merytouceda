@@ -31,14 +31,6 @@
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="75" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=merytouceda&show_icons=true&count_private=true&hide_border=true" align="left" />
-
-</td><td valign="top" width="33%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=merytouceda&hide_border=true&layout=compact" align="left" />
-
 </td></tr></table>  
 
 <br/>  
