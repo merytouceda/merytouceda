@@ -30,7 +30,6 @@
 
 <div align="center"> 
 <a href="https://www.nextflow.io/" target="_blank"><img src="https://cdn.simpleicons.org/nextflow" alt="Nextflow" height="75" /></a>
-<a href="https://snakemake.github.io/" target="_blank"><img src="https://cdn.simpleicons.org/snakemake" alt="Snakemake" height="75" /></a>
 <a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="75" /></a>  
 <a href="https://posit.co/products/open-source/rstudio/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" alt="RStudio" height="75" /></a>
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="75" /></a>  
